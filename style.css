@@ -16,11 +16,3 @@ background-color: yellow;
 section span{
 color: red;
 }
-section a:link{
-    background-color: white;
-    color: blue;
-}
-a:visited{
-background-color: blue;
-color: white;
-}
