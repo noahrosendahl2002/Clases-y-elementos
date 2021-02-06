@@ -1,0 +1,26 @@
+body.body1{
+    background-color: rgb(176, 203, 221);
+    font-family: 'Times New Roman', Times, serif;
+}
+h1.Steve::first-letter{
+    color: black;
+    font-size: 3em;
+}
+header{
+    text-align: center;
+    color: blue;
+}
+span.VIDA:hover,SPAN.PRODUCTO:hover,SPAN.EMPRESAS:hover{
+background-color: yellow;
+}
+section span{
+color: red;
+}
+section a:link{
+    background-color: white;
+    color: blue;
+}
+section a:visited{
+background-color: blue;
+color: white;
+}
