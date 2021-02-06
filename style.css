@@ -20,7 +20,7 @@ section a:link{
     background-color: white;
     color: blue;
 }
-section a:visited{
+a:visited{
 background-color: blue;
 color: white;
 }
