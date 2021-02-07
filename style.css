@@ -21,5 +21,19 @@ a:link{
     color: blue;
 }
 a:visited{
+    color: blue;
     color: white;
+    
+}
+section.steve{
+    position: relative;
+    float: right;
+    top: 50px;
+}
+h3.contador{
+    counter-reset: contador;
+}
+p.counter::before{
+content: counter(contador) ". ";
+counter-increment: contador;
 }
